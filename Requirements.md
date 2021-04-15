@@ -9,3 +9,14 @@ Single player. Has a defined set of 6 words only which can be guessed by the pla
 The number of words can be increased if required. The number of guessing chances can also be increased.
 ## THREATS
 Might not be very entertaining sometimes since it does not have the animations.
+#4W'S and 1H
+##What?
+Hangman is a fun word guessing game, can be singleplayer (using this code) and multiplayer. The player gets around 5 lives after exhausting these lives he/she loses the game.
+##Where?
+Can be played almost anywhere with your friends or even on your laptop.
+##Who??
+There are no restrictions as to who can play this game. People of all ages can play it to entertain themselves.
+##When?
+Whenever anyone needs to be entertained at anytime of the day or night.
+##How?
+Very simple to play. The player just has to guess the letters and enter them. For each wrong guess the player loses a life.
