@@ -1,0 +1,9 @@
+make.exe -f C:\Users\yashp\OneDrive\Documents\MiniProject_Template\Example_Programs\programming_concpets\calculator\Makefile --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/yashp/OneDrive/Desktop/MINIPROJECT1'
+ 
+make: *** No rule to make target 'calculator.c', needed by 'Calculator.exe'.
+ 
+make: *** No rule to make target 'test_calculator.c', needed by 'Calculator.exe'.
+ 
+make: Leaving directory 'c:/Users/yashp/OneDrive/Desktop/MINIPROJECT1'
+ 
