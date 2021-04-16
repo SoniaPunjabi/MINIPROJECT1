@@ -20,3 +20,13 @@ There are no restrictions as to who can play this game. People of all ages can p
 Whenever anyone needs to be entertained at anytime of the day or night.
 ## How?
 Very simple to play. The player just has to guess the letters and enter them. For each wrong guess the player loses a life.
+## High level Requirements
+|      ID       | Second Header |
+| ------------- | ------------- |
+|    HLR01      | List of words |
+|    HLR02      | Single player |
+## Low level Requirements
+|      ID       | Second Header                                    |
+| ------------- | -------------                                    |
+|    LLR01      | Printing not correct when guess is wrong         |
+|    LLR02      | Printing the dashes as the letters get filled in |
